@@ -1,0 +1,111 @@
+# Copyright (C) 2024 Hakan Dag
+# This file is distributed under the GPL2 license.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dinamik Mortgage Hesaplayıcı 1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-18 10:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Keywords: __;_e;__ngettext:1,2;_n_noop:1,2;_x;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x;esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dynamic-mortgage-calculator.php:33
+msgid "Mortgage Ayarları"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:34
+msgid "Mortgage Ayarları"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:50
+msgid "Dinamik Mortgage Hesaplayıcı Ayarları"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:74
+msgid "Dinamik Parametre Alanları"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:85
+msgid "Dinamik Alanlar"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:99
+msgid "Dil Ayarları"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:110
+msgid "Eklenti Dili"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:124
+msgid ""
+"Mortgage hesaplama formunda gösterilecek dinamik parametre alanlarını burada "
+"yönetebilirsiniz. Alan ekleyebilir, düzenleyebilir veya silebilirsiniz."
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:138
+msgid ""
+"Her satıra bir alan adı girin (virgülle ayırarak veya JSON formatında daha "
+"yapılandırılmış alanlar tanımlayabilirsiniz)."
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:161
+msgid "Eklentinin ön yüz ve yönetim paneli dilini seçin."
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:175
+msgid "English"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:176
+msgid "Türkçe"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:178
+msgid "Eklenti için kullanılacak dili seçin."
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:212
+msgid "Mortgage Hesaplama"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:215
+msgid "Kredi Tutarı:"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:219
+msgid "Yıllık Faiz Oranı (%):"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:223
+msgid "Vade Süresi (Yıl):"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:245
+msgid "Hesapla"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:280
+msgid "Hesaplama Sonuçları"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:281
+msgid "Aylık Taksit:"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:282
+msgid "Toplam Geri Ödeme:"
+msgstr ""
+
+#: dynamic-mortgage-calculator.php:283
+msgid "Toplam Faiz:"
+msgstr ""
