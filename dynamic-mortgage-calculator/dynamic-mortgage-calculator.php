@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Dinamik Mortgage Hesaplayıcı
- * Plugin URI:  https://example.com/
+ * Plugin URI:  https://github.com/hakanscotland/mortgage-calculator/
  * Description: Dinamik parametrelere sahip mortgage hesaplama eklentisi.
- * Version:     1.0.0
- * Author:      Adınız
- * Author URI:  https://example.com/
+ * Version:     1.0.1
+ * Author:      Hakan Dag
+ * Author URI:  https://www.secondmedia.co.uk
  * License:     GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: dynamic-mortgage-calculator
